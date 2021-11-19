@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1618983884 source:c:\users\mshaf\desktop\new folder (4)\data assign1\src\mystring.cpp
+	"MyString.h"
+	<iostream>
+	<cstring>
+
+1618983771 c:\users\mshaf\desktop\new folder (4)\data assign1\include\mystring.h
+
+1618983297 source:c:\users\mshaf\desktop\new folder (4)\data assign1\main.cpp
+	<iostream>
+	<cstring>
+	<MyString.h>
+
+1619789009 source:c:\users\mshaf\desktop\data assign1\main.cpp
+	<iostream>
+	"MYSTRING.h"
+	<cstring>
+
+1619789413 c:\users\mshaf\desktop\data assign1\include\mystring.h
+
+1619789413 source:c:\users\mshaf\desktop\data assign1\src\mystring.cpp
+	"MyString.h"
+	<iostream>
+
+1619792910 source:c:\users\mshaf\desktop\mohamed ahmed mohamed shafei    20196041 hussien sayed hussien           20196018\main.cpp
+	<iostream>
+	"MYSTRING.h"
+	<cstring>
+
+1619792128 c:\users\mshaf\desktop\mohamed ahmed mohamed shafei    20196041 hussien sayed hussien           20196018\include\mystring.h
+
+1619793143 source:c:\users\mshaf\desktop\mohamed ahmed mohamed shafei    20196041 hussien sayed hussien           20196018\src\mystring.cpp
+	"MyString.h"
+	<iostream>
+
